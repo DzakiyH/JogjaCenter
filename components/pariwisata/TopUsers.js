@@ -11,35 +11,35 @@ class TopUsers extends Component {
                 <div className='card' id={styles.active1, styles.card}>
                     <div className={styles.cardBody}>
                     <img src="photo-profile.png" alt="" />
-                    <h5 className={styles/name}>David James</h5>
+                    <h5 className={styles.name}>David James</h5>
                     <h6 className={styles.date}>Jan 6</h6>
                     </div>
                 </div>
                 <div className='card' id={styles.active2, styles.card}>
                     <div className={styles.cardBody}>
                     <img src="photo-profile.png" alt="" />
-                    <h5 className={styles/name}>David James</h5>
+                    <h5 className={styles.name}>David James</h5>
                     <h6 className={styles.date}>Jan 6</h6>
                     </div>
                 </div>
                 <div className="card" id={styles.card}>
                     <div className={styles.cardBody}>
                     <img src="photo-profile.png" alt="" />
-                    <h5 className={styles/name}>David James</h5>
+                    <h5 className={styles.name}>David James</h5>
                     <h6 className={styles.date}>Jan 6</h6>
                     </div>
                 </div>
                 <div className='card' id={styles.active3, styles.card}>
                     <div className={styles.cardBody}>
                     <img src="photo-profile.png" alt="" />
-                    <h5 className={styles/name}>David James</h5>
+                    <h5 className={styles.name}>David James</h5>
                     <h6 className={styles.date}>Jan 6</h6>
                     </div>
                 </div>
                 <div className='card' id={styles.active4, styles.card}>
                     <div className={styles.cardBody}>
                     <img src="photo-profile.png" alt="" />
-                    <h5 className={styles/name}>David James</h5>
+                    <h5 className={styles.name}>David James</h5>
                     <h6 className={styles.date}>Jan 6</h6>
                     </div>
                 </div>
