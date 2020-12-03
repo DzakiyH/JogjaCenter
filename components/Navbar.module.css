@@ -1,0 +1,55 @@
+.navbar {
+  height: 80px;
+  display: flex;
+  background-color: #073c64;
+  position: relative;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+}
+
+.brand img {
+  max-width: 42px;
+  max-height: 57px;
+  margin-left: 10px;
+}
+
+.brandText {
+  color: #ffffff;
+  margin-left: 20px;
+}
+
+.userOption {
+  position: absolute;
+  right: 20px;
+  top: 19px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.userOption span {
+  margin: 0 10px;
+}
+
+#straightLine {
+  width: 0.5px;
+  height: 40px;
+  background-color: #ffffff;
+  margin-right: 20px;
+}
+
+.userOption i {
+  padding: 4px 6px;
+  background-color: #ffffff;
+  border-radius: 2px;
+  margin-right: 10px;
+}
+
+.userOption select {
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
+}

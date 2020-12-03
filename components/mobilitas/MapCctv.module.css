@@ -1,0 +1,14 @@
+.cctv {
+  margin-bottom: 70px;
+}
+
+.cctv h4 {
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
+.mapCctv {
+  width: 100%;
+  height: 700px;
+  z-index: 1;
+}

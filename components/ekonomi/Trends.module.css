@@ -1,0 +1,16 @@
+.trends {
+  margin-bottom: 70px;
+}
+
+.trends h5 {
+  margin-bottom: 40px;
+}
+
+.trends .dropdown {
+  position: absolute;
+  right: 45px;
+}
+
+.trends select {
+  width: 120px;
+}

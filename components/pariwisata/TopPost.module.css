@@ -1,0 +1,94 @@
+.topPost {
+  min-width: 60%;
+  margin-left: 10px;
+}
+
+.topPost .card {
+  margin-top: 20px;
+}
+
+#card {
+  margin: 10px 0;
+  padding: 40px 20px;
+}
+
+.topPost .cardBody {
+  display: flex;
+  flex-direction: row;
+}
+
+.topPost img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.cardBody .post {
+  width: 100%;
+}
+
+.post .row1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.post .row1 .source {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  right: 20px;
+}
+
+.post .row1 .source h6 {
+  color: #808495;
+}
+
+.post .row1 .source i {
+  color: #66c099;
+  margin-right: 15px;
+}
+
+.post .row2 p {
+  font-size: 10px;
+}
+
+.post .row3 {
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0;
+}
+
+.post .row3 .like {
+  margin-right: 15px;
+  color: #808495;
+  font-weight: bold;
+}
+
+.post .row3 .like i {
+  color: #ff6565;
+  margin-right: 5px;
+}
+
+.post .row3 .share {
+  color: #808495;
+  font-weight: bold;
+}
+
+.post .row3 .share i {
+  color: #a3a0fb;
+  margin-right: 5px;
+}
+
+.post .row3 button {
+  position: absolute;
+  right: 30px;
+  width: 110px;
+  height: 30px;
+  background: #8df694;
+  padding: 0;
+  font-weight: bold;
+  color: #ffffff;
+  border-radius: 15px;
+}

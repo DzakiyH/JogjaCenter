@@ -1,0 +1,45 @@
+.mobility {
+  margin: 50px 0;
+}
+
+.mobilityText {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 40px;
+}
+
+.mobilityText span {
+  width: 40px;
+  height: 40px;
+  background: #7a65ff;
+  font-size: 20px;
+  border: 1px solid #707070;
+  border-radius: 5px;
+  margin-right: 45px;
+}
+
+.mobilityText span i {
+  width: 20px;
+  height: 20px;
+  margin: 9px 5px 0 9px;
+  color: #ffffff;
+}
+
+.mobilityText button {
+  position: absolute;
+  width: 150px;
+  height: 45px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 15px;
+  right: 45px;
+  text-align: right;
+  background-color: #ffe07a;
+  border-radius: 15px;
+}
+
+.mobilityText button i {
+  position: absolute;
+  left: 12px;
+  top: 15px;
+}

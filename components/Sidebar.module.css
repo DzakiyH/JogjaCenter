@@ -1,0 +1,25 @@
+.sidebar {
+  width: 65px;
+  height: 100%;
+  background: #073c64;
+  z-index: 3;
+}
+
+.sidebarItems {
+  position: sticky;
+  top: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sidebarItems a {
+  margin-top: 20px;
+}
+
+.sidebar a i {
+  width: 25px;
+  height: 25px;
+  font-size: 20px;
+  color: #ffffff;
+}

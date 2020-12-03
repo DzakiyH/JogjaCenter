@@ -1,0 +1,50 @@
+.topUsers h3 {
+  color: #4d4f5c;
+}
+
+.topUsers p {
+  color: #4d4f5c;
+  opacity: 0.5;
+  padding: 0 40px;
+  margin-bottom: 40px;
+}
+
+#card {
+  border: 1px solid #f1f1f3;
+  padding: 20px 10px 40px 10px;
+  margin: 10px 0;
+}
+
+#active1 {
+  border-left: 4px solid #ff6565;
+}
+
+#active2 {
+  border-left: 4px solid #a3a0fb;
+}
+
+#active3 {
+  border-left: 4px solid #3b86ff;
+}
+
+#active4 {
+  border-left: 4px solid #a3a0fb;
+}
+
+.topUsers .cardBody {
+  display: flex;
+  flex-direction: row;
+}
+
+.topUsers img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 50px;
+}
+
+.topUsers .date {
+  position: absolute;
+  right: 15px;
+}

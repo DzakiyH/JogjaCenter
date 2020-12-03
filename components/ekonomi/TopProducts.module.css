@@ -1,0 +1,69 @@
+.topProduct {
+}
+
+.topProduct .topRow {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  background: #f5f6fa;
+  align-items: center;
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+.topRow #product {
+  text-transform: uppercase;
+  margin: 0 0 0 15px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #a3a6b4;
+}
+
+.topRow #availability {
+  position: absolute;
+  text-transform: uppercase;
+  right: 230px;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0;
+  color: #a3a6b4;
+}
+
+.topRow #total {
+  position: absolute;
+  text-transform: uppercase;
+  right: 50px;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0;
+  color: #a3a6b4;
+}
+
+.topProduct .card {
+  border: 0;
+}
+
+.topProduct .cardBody {
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #e8e9ec;
+}
+
+.topProduct img {
+  width: 40px;
+  height: 50px;
+  object-fit: cover;
+  margin-left: 15px;
+}
+
+.topProduct #price {
+  position: absolute;
+  right: 30px;
+  margin-top: 10px;
+}
+
+.cardButton {
+  margin: auto;
+  width: 110px;
+  margin-top: 20px;
+}

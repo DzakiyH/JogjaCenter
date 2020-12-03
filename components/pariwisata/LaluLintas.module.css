@@ -1,0 +1,26 @@
+.laluLintas {
+  margin-top: 80px;
+}
+
+.laluLintas h3 {
+  margin-bottom: 20px;
+}
+
+.pieText {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+}
+
+.pieText .dropdown {
+  position: absolute;
+  right: 45px;
+}
+
+.pieText select {
+  border: 1px solid #d7dae2;
+  border-radius: 5px;
+  width: 130px;
+  height: 30px;
+  padding: 0 8px;
+}

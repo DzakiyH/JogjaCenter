@@ -1,0 +1,152 @@
+.persebaran {
+  margin: 30px 0;
+}
+
+.persebaranText {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 0;
+}
+
+.persebaranText p {
+  color: #9c9c9c;
+}
+
+.persebaranText span {
+  width: 40px;
+  height: 40px;
+  background: #ff6565;
+  font-size: 20px;
+  border: 1px solid #707070;
+  border-radius: 5px;
+}
+
+.persebaranText span i {
+  width: 20px;
+  height: 20px;
+  margin: 9px 6px 0 8px;
+  color: #ffffff;
+}
+
+.persebaranText h3 {
+  margin: 0 100px 0 45px;
+}
+
+.persebaranDropdown {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  right: 45px;
+}
+
+.persebaranDropdown .dropdown {
+  margin: 0 10px;
+}
+
+.persebaranDropdown select {
+  border: 1px solid #d7dae2;
+  border-radius: 5px;
+  width: 130px;
+  height: 30px;
+  padding: 0 8px;
+}
+
+.persebaranMap {
+  min-width: 70%;
+  padding: 0;
+}
+
+.persebaranSosmed {
+  max-width: 30%;
+}
+
+#card {
+  margin-bottom: 15px;
+}
+
+.socialMedia .cardBody {
+  padding: 15px;
+}
+
+.socialMedia .cardName {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.socialMedia .cardName .twitter {
+  color: #4dedff;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.socialMedia .cardValue .value {
+  display: flex;
+  flex-direction: row;
+}
+
+.socialMedia .cardValue .value h5 {
+  padding-top: 10px;
+  margin-bottom: 0;
+}
+
+.socialMedia .cardValue .value img {
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  right: 20px;
+  bottom: 15px;
+}
+
+.badges-sosmed h6 {
+  margin: 0 0 15px 6px;
+}
+
+.cardBody .badges {
+  display: flex;
+  flex-direction: row;
+}
+
+.badges {
+  justify-content: center;
+}
+
+.badges .badge {
+  width: 50px;
+  height: 50px;
+  background: #e8e9ec;
+  margin-right: 35px;
+  border-radius: 5px;
+}
+
+/* .badges .badge-notif {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background: red;
+    color: white;
+  } */
+
+.badges .badge span {
+  font-size: 8px;
+}
+
+.buttonSosmed {
+  margin-top: 20px;
+}
+
+.buttonSosmed button {
+  width: 140px;
+  margin-left: 65px;
+}
+
+#btnMapping {
+  border: 1px solid #43425d;
+}
+
+#btnDetails {
+  background-color: #43425d;
+  color: #ffffff;
+}

@@ -1,5 +1,5 @@
 {
-  "name": "jogja-center1",
+  "name": "jogja-center",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "bulma": "^0.9.1",
     "next": "10.0.1",
     "react": "17.0.1",
     "react-dom": "17.0.1"
